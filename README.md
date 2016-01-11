@@ -22,6 +22,11 @@ At the end of this course you will have learnt how to explore and investigate vi
 - Quiz: Typography | 100%
 
 #### Week 3: Fundamentals of Shape and Color
+- Intro and Overview
+- Shape and Color
+- Rhythm and Pattern
+- Quiz: Shape and Color | 100%
+
 #### Week 4: Fundamentals of Composition
 
 ## Updates
@@ -29,3 +34,4 @@ At the end of this course you will have learnt how to explore and investigate vi
 - Enrolled in the program
 - Finished Week 1: Fundamentals of Imagemaking
 - Finished Week 2: Fundamentals of Typography
+- Finished Week 3: Fundamentals of Shape and Color
