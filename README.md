@@ -1,4 +1,5 @@
 # Fundamentals of Graphic Design
+# COURSE AUDIT COMPLETED
 ### Created by The California Institute of the Arts
 
 Graphic Design is all around us! Words and pictures—the building blocks of graphic design—are the elements that carry the majority of the content in both the digital world and the printed world. As graphic design becomes more visible and prevalent in our lives, graphic design as a practice becomes more important in our culture.
