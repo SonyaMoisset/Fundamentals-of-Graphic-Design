@@ -14,6 +14,13 @@ At the end of this course you will have learnt how to explore and investigate vi
 - Images and Connotation
 
 #### Week 2: Fundamentals of Typography
+- Intro and Overview
+- The Lexicon of Letters
+- How to Choose a Typeface
+- How to "Read" Typography
+- How to Use a Typeface
+- Quiz: Typography | 100%
+
 #### Week 3: Fundamentals of Shape and Color
 #### Week 4: Fundamentals of Composition
 
@@ -21,3 +28,4 @@ At the end of this course you will have learnt how to explore and investigate vi
 ### 11/01/2016
 - Enrolled in the program
 - Finished Week 1: Fundamentals of Imagemaking
+- Finished Week 2: Fundamentals of Typography
