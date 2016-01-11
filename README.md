@@ -28,6 +28,11 @@ At the end of this course you will have learnt how to explore and investigate vi
 - Quiz: Shape and Color | 100%
 
 #### Week 4: Fundamentals of Composition
+- Intro and Overview
+- All About Contrast
+- Working with Images
+- Putting It All Together
+- Conclusions
 
 ## Updates
 ### 11/01/2016
@@ -35,3 +40,4 @@ At the end of this course you will have learnt how to explore and investigate vi
 - Finished Week 1: Fundamentals of Imagemaking
 - Finished Week 2: Fundamentals of Typography
 - Finished Week 3: Fundamentals of Shape and Color
+- Finished Week 4: Fundamentals of Composition
