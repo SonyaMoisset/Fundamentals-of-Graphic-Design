@@ -13,7 +13,10 @@ Graphic design is all around us, in a myriad of forms, both on screen and in pri
 ## Updates
 ### 11/01/2016
 - Enrolled in the program
-- Finished Week 1: Fundamentals of Imagemaking
-- Finished Week 2: Fundamentals of Typography
-- Finished Week 3: Fundamentals of Shape and Color
-- Finished Week 4: Fundamentals of Composition
+- Finished Week 1: Fundamentals of Imagemaking in Course 1. Fundamentals of Graphic Design
+- Finished Week 2: Fundamentals of Typography in Course 1. Fundamentals of Graphic Design
+- Finished Week 3: Fundamentals of Shape and Color in Course 1. Fundamentals of Graphic Design
+- Finished Week 4: Fundamentals of Composition in Course 1. Fundamentals of Graphic Design
+
+### 08/03/2016
+- Finished Week 1: Talking Type in Course 2. Introduction to Typography
