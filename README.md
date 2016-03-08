@@ -22,3 +22,4 @@ Graphic design is all around us, in a myriad of forms, both on screen and in pri
 - Finished Week 1: Talking Type in Course 2. Introduction to Typography
 - Finished Week 2: Typefaces and their Stories in Course 2. Introduction to Typography
 - Finished Week 3: Putting Type to Work in Course 2. Introduction to Typography
+- Finished Week 4: Making Meaningful Type in Course 2. Introduction to Typography
