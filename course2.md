@@ -15,3 +15,9 @@ Typography is the art of manipulating the visual form of language to enrich and 
 - The Modern Era
 - Type Today
 - Assignment
+
+#### Week 3: Week 3: Putting Type to Work
+- Type in Space
+- Typographic Hierarchy
+- Rules and Conventions
+- Assignment
