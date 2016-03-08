@@ -14,10 +14,12 @@ Typography is the art of manipulating the visual form of language to enrich and 
 - From Humanism to Rationalism
 - The Modern Era
 - Type Today
-- Assignment
 
 #### Week 3: Week 3: Putting Type to Work
 - Type in Space
 - Typographic Hierarchy
 - Rules and Conventions
-- Assignment
+
+#### Week 4: Making Meaningful Type
+- Expressive Typography
+- Bringing It All Together
