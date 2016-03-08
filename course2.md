@@ -9,3 +9,9 @@ Typography is the art of manipulating the visual form of language to enrich and 
 - Describing and Measuring Type
 - Choosing Type
 - Review
+
+#### Week 2: Typefaces and their Stories
+- From Humanism to Rationalism
+- The Modern Era
+- Type Today
+- Assignment
